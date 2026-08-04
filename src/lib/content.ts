@@ -48,84 +48,84 @@ export type Student = {
 
 export const students: Array<Student> = [
   {
-    name: '陈思远',
-    nameEn: 'Siyuan Chen',
+    name: '刘语馨',
+    nameEn: 'ClaraLiu',
     grade: '10年级',
     gradeEn: 'Grade 10',
-    highlight: '李斯特《B小调奏鸣曲》',
-    highlightEn: 'Liszt Sonata in B minor',
+    highlight: '舒曼：C大调幻想曲作品17号',
+    highlightEn: 'Schumann:FantasieinCmajorOp.17',
     bioZh:
       '陈思远跟随李帆老师学习钢琴已有六年。他在2024年“钢琴少年”系列音乐会上演奏了李斯特《B小调奏鸣曲》全曲，展现出超越年龄的技巧掌控与音乐表现力。他曾获新英格兰地区青少年钢琴比赛一等奖，并多次参与波士顿斯坦威钢琴公司的展示演出。除钢琴外，他也是学校管弦乐团的首席，喜欢作曲与即兴演奏。',
     bioEn:
       'Siyuan has studied piano with Li Fan for six years. At the 2024 Young Pianists concert series, he performed the complete Liszt Sonata in B minor, showing technical control and musicality well beyond his years. He is a first-prize winner at the New England Regional Youth Piano Competition and has performed at several Steinway Boston showcase events. Beyond piano, he serves as concertmaster of his school orchestra and enjoys composing and improvising.',
   },
   {
-    name: '王雅琪',
-    nameEn: 'Yaqi Wang',
-    grade: '11年级',
-    gradeEn: 'Grade 11',
-    highlight: '拉赫玛尼诺夫《第三钢琴协奏曲》',
-    highlightEn: 'Rachmaninoff Piano Concerto No. 3',
+    name: '刘乐山',
+    nameEn: 'EricLiu',
+    grade: '10年级',
+    gradeEn: 'Grade 10',
+    highlight: '拉威尔：库普兰之组曲',
+    highlightEn: 'Ravel:LeTombeaudeCouperin',
     bioZh:
       '王雅琪在李帆钢琴工作室学习八年，以细腻的情感表达和扎实的技术功底著称。她曾与纽顿交响乐团合作演奏拉赫玛尼诺夫《第三钢琴协奏曲》选段，获得观众的热烈反响。她多次入选美国音乐教师协会（MTNA）州级比赛决赛，并在校内担任合唱伴奏。',
     bioEn:
       'Yaqi has studied at the Li Fan Piano Studio for eight years and is known for her nuanced emotional expression and solid technique. She performed excerpts of Rachmaninoff’s Piano Concerto No. 3 with the Newton Symphony Orchestra to an enthusiastic audience response. She has been a finalist at the MTNA state-level competition multiple times and serves as her school choir’s accompanist.',
   },
   {
-    name: '张浩然',
-    nameEn: 'Haoran Zhang',
+    name: '黄译漪',
+    nameEn: 'JoleneWong',
     grade: '10年级',
     gradeEn: 'Grade 10',
-    highlight: '柴可夫斯基《第一钢琴协奏曲》',
-    highlightEn: 'Tchaikovsky Piano Concerto No. 1',
+    highlight: '贝多芬：第三钢琴协奏曲作品37号',
+    highlightEn: 'Beethoven:PianoConcertono3Op.37',
     bioZh:
       '张浩然自幼学习钢琴，师从李帆老师五年。他在2023年“钢琴少年”音乐会上演奏了柴可夫斯基《第一钢琴协奏曲》第一乐章，音色饱满、气势磅礴。他曾获波士顿地区青年艺术家比赛金奖，并受邀在卡内基音乐厅的学生展演中演出。',
     bioEn:
       'Haoran began piano at an early age and has studied with Li Fan for five years. At the 2023 Young Pianists concert, he performed the first movement of Tchaikovsky’s Piano Concerto No. 1 with a rich tone and commanding presence. He is a gold medalist at the Boston Young Artists Competition and was invited to perform in a student showcase at Carnegie Hall.',
   },
   {
-    name: '李梓萱',
-    nameEn: 'Zixuan Li',
-    grade: '9年级',
-    gradeEn: 'Grade 9',
-    highlight: '肖邦《第一叙事曲》',
-    highlightEn: 'Chopin Ballade No. 1',
+    name: '郑卓儒',
+    nameEn: 'JaydenZheng',
+    grade: '10年级',
+    gradeEn: 'Grade 10',
+    highlight: '舒伯特：音乐瞬间作品94号',
+    highlightEn: 'Beethoven:PianoSonatano23Op.57"Appassionata"',
     bioZh:
       '李梓萱学习钢琴七年，是李帆工作室最年轻的“钢琴少年”系列演奏者之一。她演奏的肖邦《第一叙事曲》以诗意的乐句处理和成熟的音乐理解力赢得评委和观众的赞赏。她同时也在学习小提琴，热衷于室内乐合作。',
     bioEn:
       'Zixuan has studied piano for seven years and is one of the youngest performers in the Young Pianists series. Her performance of Chopin’s Ballade No. 1 was praised by judges and audiences alike for its poetic phrasing and mature musical understanding. She also studies violin and enjoys chamber music collaboration.',
   },
   {
-    name: '刘天佑',
-    nameEn: 'Tianyou Liu',
-    grade: '11年级',
-    gradeEn: 'Grade 11',
-    highlight: '普罗科菲耶夫《第七钢琴奏鸣曲》',
-    highlightEn: 'Prokofiev Piano Sonata No. 7',
+    name: '郑卓翰',
+    nameEn: 'JefferyZheng',
+    grade: '10年级',
+    gradeEn: 'Grade 10',
+    highlight: '贝多芬：钢琴奏鸣曲第23首作品57号”热情“',
+    highlightEn: 'Schubert:MomentsMusicauxOp.94',
     bioZh:
       '刘天佑跟随李帆老师学习九年，擅长处理近现代作品复杂的节奏与色彩变化。他演奏的普罗科菲耶夫《第七钢琴奏鸣曲》“战争奏鸣曲”末乐章以精准的节奏控制和爆发力著称。他曾获全美青年钢琴家公开赛地区冠军，并计划申请顶尖音乐学院的双学位项目。',
     bioEn:
       'Tianyou has studied with Li Fan for nine years and excels in the complex rhythms and colors of modern repertoire. His performance of the final movement of Prokofiev’s “War Sonata” (Piano Sonata No. 7) is marked by rhythmic precision and power. He is a regional champion of the National Young Pianists Open and plans to apply to dual-degree programs combining music and academics.',
   },
   {
-    name: '孙艾玲',
-    nameEn: 'Ailing Sun',
+    name: '王博文',
+    nameEn: 'MatthewWang',
     grade: '10年级',
     gradeEn: 'Grade 10',
-    highlight: '德彪西《意象集》',
-    highlightEn: 'Debussy Images',
+    highlight: '格斯温：爵士歌曲钢琴改编曲，三首序曲。',
+    highlightEn: 'Gershwin:Selectionsfrom SongBook.ThreePreludes',
     bioZh:
       '孙艾玲师从李帆老师六年，以独特的音色控制和印象派作品的诠释见长。她演奏的德彪西《意象集》选曲展现出细腻的音色层次和丰富的想象力。她曾在波士顿地区多场社区音乐会中担任独奏嘉宾，并获得学校颁发的“杰出艺术成就奖”。',
     bioEn:
       'Ailing has studied with Li Fan for six years and is known for her distinctive tone control and interpretation of Impressionist repertoire. Her performance of selections from Debussy’s Images revealed delicate tonal layers and vivid imagination. She has been a featured soloist at several community concerts in the Boston area and received her school’s Outstanding Artistic Achievement Award.',
   },
   {
-    name: '赵明轩',
-    nameEn: 'Mingxuan Zhao',
+    name: '高仁杰',
+    nameEn: 'RogerGao',
     grade: '12年级',
     gradeEn: 'Grade 12',
-    highlight: '贝多芬《热情奏鸣曲》',
-    highlightEn: 'Beethoven “Appassionata” Sonata',
+    highlight: '肖邦：第二钢琴奏鸣曲作品35号',
+    highlightEn: 'Chopin:PianoSonataNo.2Op35',
     bioZh:
       '赵明轩是李帆钢琴工作室资历最深的学生之一，学习钢琴已有十年。他演奏的贝多芬《热情奏鸣曲》以严谨的结构把控和强烈的戏剧张力打动听众。他曾多次代表工作室参加斯坦威青年艺术家展演，并已被多所美国顶尖大学录取，即将赴大学继续深造音乐与其他专业的双重学习。',
     bioEn:
