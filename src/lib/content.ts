@@ -120,6 +120,18 @@ export const students: Array<Student> = [
       'Ailing has studied with Li Fan for six years and is known for her distinctive tone control and interpretation of Impressionist repertoire. Her performance of selections from Debussy’s Images revealed delicate tonal layers and vivid imagination. She has been a featured soloist at several community concerts in the Boston area and received her school’s Outstanding Artistic Achievement Award.',
   },
   {
+    name: '王博文',
+    nameEn: 'MatthewWang',
+    grade: '10年级',
+    gradeEn: 'Grade 10',
+    highlight: '格斯温：爵士歌曲钢琴改编曲，三首序曲。',
+    highlightEn: 'Gershwin:Selectionsfrom SongBook.ThreePreludes',
+    bioZh:
+      '孙艾玲师从李帆老师六年，以独特的音色控制和印象派作品的诠释见长。她演奏的德彪西《意象集》选曲展现出细腻的音色层次和丰富的想象力。她曾在波士顿地区多场社区音乐会中担任独奏嘉宾，并获得学校颁发的“杰出艺术成就奖”。',
+    bioEn:
+      'Ailing has studied with Li Fan for six years and is known for her distinctive tone control and interpretation of Impressionist repertoire. Her performance of selections from Debussy’s Images revealed delicate tonal layers and vivid imagination. She has been a featured soloist at several community concerts in the Boston area and received her school’s Outstanding Artistic Achievement Award.',
+  },
+  {
     name: '高仁杰',
     nameEn: 'RogerGao',
     grade: '12年级',
